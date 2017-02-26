@@ -30,7 +30,7 @@ def gettin(tpnb):
 
 headers = {
     # Request headers
-    'Ocp-Apim-Subscription-Key': '06948dd2153541ee8bb8a74ccb67061b',
+    'Ocp-Apim-Subscription-Key': 'xxxxxxxxxxxxxxxxxxxxxxxxx',
 }
 
 params = urllib.urlencode({
